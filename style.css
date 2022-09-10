@@ -9,3 +9,15 @@ ul li
     display: flex;
     justify-content: space-around;
 }
+
+ul{
+    list-style: none;
+}
+
+p{
+    background-color: yellow;
+}
+
+body{
+    background-color: purple;
+}
